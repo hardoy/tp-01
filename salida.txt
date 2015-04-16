@@ -1,0 +1,47 @@
+TP Número uno.
+
+
+
+---------------------
+
+Ingrese un número real  1.5
+Ingrese otro número real  1.1 
+
+La suma entre 1.5 y 1.1 es igual a 2.6
+
+La resta entre 1.5 y 1.1 es igual a 0.4
+
+La multiplicación entre 1.5 y 1.1 es igual a 1.65
+
+La división entre 1.5 y 1.1 es igual a 1.36364
+
+1.5 es mayor que 1.1
+
+---------------------
+
+Ingrese un número entero  2 
+Ingrese otro número entero  5
+La suma entre 2 y 5 es igual a 7
+La resta entre 2 y 5 es igual a -3
+La multiplicación entre 2 y 5 es igual a 10
+La división entre 2 y 5 es igual a 0
+El resto de la división anterior es: 2
+
+2 es menor que 5
+
+
+
+---------------------
+
+Definir valor de verdad de p (v/f): 
+v
+Definir valor de verdad de q (v/f): 
+v
+
+
+Tomando esos valores para p y q se obtienen los valores de verdad para las proposiciones: 
+
+Conjunción de p y q: VERDADERA
+Disyunción incluyente de p y q: VERDADERA
+Disyunción excluyente de p y q: FALSA
+Negación de p: FALSA
