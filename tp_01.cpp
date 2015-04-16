@@ -6,7 +6,7 @@
 //~ 
 //~ 16 de abril de 2015, 00:28
 
-#include<iostream>
+#include <iostream>
  
 using namespace std;
 
